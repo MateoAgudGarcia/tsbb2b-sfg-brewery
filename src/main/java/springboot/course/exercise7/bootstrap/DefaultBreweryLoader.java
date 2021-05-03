@@ -16,10 +16,8 @@
  */
 package springboot.course.exercise7.bootstrap;
 
-import guru.springframework.brewery.domain.*;
 import springboot.course.exercise7.domain.*;
 import springboot.course.exercise7.web.model.BeerStyleEnum;
-import guru.springframework.brewery.repositories.*;
 import springboot.course.exercise7.repositories.BreweryRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
